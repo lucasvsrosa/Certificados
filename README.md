@@ -1,4 +1,6 @@
-![Status](https://img.shields.io/badge/Status-Atualizando_🚧-orange?style=for-the-badge)
+
+![Última Atualização](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio?style=for-the-badge)
+
 # 🎓 Portfólio de Certificados
 
 Bem-vindo(a) ao meu repositório de certificados!  
