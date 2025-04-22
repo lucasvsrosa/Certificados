@@ -1,5 +1,5 @@
-
-![Última Atualização](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio?style=for-the-badge)
+![Commits](https://img.shields.io/github/commit-activity/m/seu-usuario/seu-repositorio?style=for-the-badge)
+![Último Commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio?style=for-the-badge)
 
 # 🎓 Portfólio de Certificados
 
